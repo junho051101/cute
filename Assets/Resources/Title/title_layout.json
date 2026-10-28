@@ -1,0 +1,25 @@
+{
+  "imageWidth": 768,
+  "imageHeight": 1376,
+  "layers": [
+    { "name": "bg", "kind": "background", "x": 0, "y": 0, "width": 768, "height": 1376, "pivotX": 384, "pivotY": 688 },
+    { "name": "cat", "kind": "cat", "x": 66, "y": 245, "width": 636, "height": 933, "pivotX": 384, "pivotY": 1178 },
+    { "name": "hamster", "kind": "hamster", "x": 282, "y": 1032, "width": 200, "height": 258, "pivotX": 382, "pivotY": 1290 },
+    { "name": "scarf_tail", "kind": "scarf", "x": 482, "y": 1124, "width": 97, "height": 100, "pivotX": 482, "pivotY": 1167 },
+    { "name": "flower_0", "kind": "flower", "x": 738, "y": 1058, "width": 25, "height": 24, "pivotX": 750, "pivotY": 1082 },
+    { "name": "flower_1", "kind": "flower", "x": 694, "y": 1114, "width": 48, "height": 46, "pivotX": 718, "pivotY": 1160 },
+    { "name": "flower_2", "kind": "flower", "x": 23, "y": 1136, "width": 46, "height": 50, "pivotX": 46, "pivotY": 1186 },
+    { "name": "flower_3", "kind": "flower", "x": 698, "y": 1174, "width": 60, "height": 47, "pivotX": 728, "pivotY": 1221 },
+    { "name": "flower_4", "kind": "flower", "x": 74, "y": 1217, "width": 69, "height": 62, "pivotX": 108, "pivotY": 1279 }
+  ],
+  "sparkles": [
+    { "x": 429, "y": 221, "size": 53 },
+    { "x": 115, "y": 354, "size": 35 },
+    { "x": 93, "y": 406, "size": 53 },
+    { "x": 670, "y": 402, "size": 44 }
+  ],
+  "eyes": [
+    { "x": 276, "y": 501, "size": 63 },
+    { "x": 491, "y": 501, "size": 63 }
+  ]
+}
